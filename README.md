@@ -1,4 +1,14 @@
-👋 coding
+<h2>wow! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+
+<p>🏃‍♂️ UBC | 🌳 Vancouver, BC</p>
+
+![](https://komarev.com/ghpvc/?username=voctory&color=blueviolet)
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=voctory&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=voctory&theme=dark)](https://git.io/streak-stats)
+
+
 
 <!---
 - 👀 I’m interested in ...
