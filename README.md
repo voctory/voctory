@@ -1,6 +1,6 @@
 <h2>wow! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<p>🏃‍♂️ UBC | 🌳 Vancouver, BC</p>
+<p>📚 UBC '25 | 🌳 Vancouver, BC</p>
 
 ![](https://komarev.com/ghpvc/?username=voctory&color=blueviolet)
 
