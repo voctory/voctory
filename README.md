@@ -2,7 +2,7 @@
 
 <p>Currently studying at UBC as a first-year, expected to graduate in 2025 (or 2026 with co-op) 👀 | 🌳 Vancouver, BC</p>
 <p>My <a href="https://victorvannara.com/">portfolio</a> and <a href="https://www.linkedin.com/in/victor-vannara/">LinkedIn</a> are more interesting than this GitHub profile, I promise!</p>
-<p>Feel free to contact me at <a href="mailto:vannara@student.ubc.ca">vannara (at) student.ubc.ca</a></p>
+<p>Feel free to contact me @ <a href="mailto:vannara@student.ubc.ca">vannara [at] student.ubc.ca</a></p>
 
 ![](https://komarev.com/ghpvc/?username=voctory&color=blueviolet)
 
