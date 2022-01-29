@@ -1,6 +1,6 @@
 <h2>wow! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<p>Currently studying at UBC as a first-year, expected to graduate in 2025 (or 2026 with co-op) 👀 | 🌳 Vancouver, BC</p>
+<p>Currently studying at UBC as a first-year, graduating in 2025 or 2026 w/ co-op | 🌳 Vancouver, BC</p>
 <p>My <a href="https://victorvannara.com/">portfolio</a> and <a href="https://www.linkedin.com/in/victor-vannara/">LinkedIn</a> are more interesting than this GitHub profile, I promise!</p>
 <p>Feel free to contact me @ <a href="mailto:vannara@student.ubc.ca">vannara [at] student.ubc.ca</a></p>
 
