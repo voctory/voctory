@@ -1,14 +1,8 @@
 <h2>wow! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<p>my <a href="https://victorvannara.com/">portfolio</a> and <a href="https://www.linkedin.com/in/victor-vannara/">linkedin</a> have some stuff</p>
-<p>feel free to contact me @ <a href="mailto:vannara@student.ubc.ca">vannara [at] student.ubc.ca</a></p>
+<p>my <a href="https://victorvannara.com/">portfolio</a> and <a href="https://www.linkedin.com/in/victor-vannara/">linkedin</a></p>
 
 ![](https://komarev.com/ghpvc/?username=voctory&color=blueviolet)
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=voctory&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=voctory&theme=dark)](https://git.io/streak-stats)
-
 
 
 <!---
