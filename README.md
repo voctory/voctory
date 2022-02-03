@@ -1,6 +1,5 @@
 <h2>wow! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<p>Currently studying at UBC as a first-year, expected 2025. or 2026? w/ co-op | Vancouver, BC</p>
 <p>my <a href="https://victorvannara.com/">portfolio</a> and <a href="https://www.linkedin.com/in/victor-vannara/">linkedin</a> have some stuff</p>
 <p>feel free to contact me @ <a href="mailto:vannara@student.ubc.ca">vannara [at] student.ubc.ca</a></p>
 
