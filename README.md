@@ -1,7 +1,5 @@
 <h2>wow! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<p>my <a href="https://victorvannara.com/">portfolio</a> and <a href="https://www.linkedin.com/in/victor-vannara/">linkedin</a></p>
-
 ![](https://komarev.com/ghpvc/?username=voctory&color=blueviolet)
 
 
