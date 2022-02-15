@@ -1,8 +1,5 @@
 <h2>wow! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-![](https://komarev.com/ghpvc/?username=voctory&color=blueviolet)
-
-
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
